@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.development
+.env.production
+*.log
+tmp/
+.DS_Store
+.vscode/
+.idea/
